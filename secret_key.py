@@ -1,0 +1,6 @@
+openapi_key = "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"
+#cohereapi_key = "sOAKZTD5JT5DU8u1Q3iLpPfHyb9Z1o9AKLsvrdOW"
+cohereapi_key = "XwLrHOE3j3ITdCNCspdH2OG55b4WiKAOIF56xrs0"
+serpapi_key = "bf6cfcc7e9973ea58e47654d39bbdb11b30abf47bad71b67d787896d989337e1"
+googleapi_key = "AIzaSyC28ZrVBjN2TiV0tUHUshTSn5Ipn8bGntk"
+exaapi_key = "6cf7007e-48c6-4999-ac6d-e5fab53afc4b"
