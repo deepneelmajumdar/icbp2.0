@@ -7,7 +7,6 @@ torch
 pillow
 SpeechRecognition
 pyaudio
-PIL
 langchain.prompts
 langchain.chains
 google-search-results
