@@ -7,8 +7,6 @@ torch
 pillow
 SpeechRecognition
 pyaudio
-langchain.prompts
-langchain.chains
 google-search-results
 langchain-google-genai
 accelerator
