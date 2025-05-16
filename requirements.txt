@@ -1,4 +1,5 @@
 streamlit
+--upgrade pip
 langchain
 langchain-community
 langchain_google_genai
